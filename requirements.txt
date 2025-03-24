@@ -1,1 +1,4 @@
 sympy==1.13.3
+ipykernel==6.29.5
+numpy==2.2.0
+matplotlib==3.9
